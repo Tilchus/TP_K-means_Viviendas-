@@ -1,3 +1,17 @@
+# 🎓 **Instituto Tecnológico Beltrán**
+
+### 🤖 **Cátedra:** Procesamiento de Aprendizaje Automático
+
+## **Trabajo Práctico: Segmentación de Viviendas con K-Means**
+---
+### 👩‍🏫 **Docente:** 
+* Yanina Escudero
+
+### 👥 **Integrantes del Grupo:**
+* Danilo Figueroa
+* María Alejandra Bernasconi Lahn
+* Silvia Alejandra Gérez
+
 # Segmentación de Viviendas en Argentina (INDEC 2022) 
 *Un análisis práctico de Machine Learning usando K-Means y Python*
 
